@@ -467,4 +467,4 @@ async def help(ctx):
 
 [loc]=loadFiles(['LocalizedMasterParam.json'])
 [units,drops,gears,jobs]=convertDBS(loadFiles(['units.json','drops.json','gear.json','jobs.json']))
-bot.run(BOT_TOKEN)
+bot.run('NDM3ODY4OTQ4MTMwNzU4NjY4.Df8q0g.pqgpoBqgRuiC8k6BNkXuNyf9HEA')
